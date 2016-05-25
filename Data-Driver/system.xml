@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataDriven>
+	<!--接口测试平台使用到的数据-->
+	<index>这是一个接口测试的文档数据</index>
+</DataDriven>
